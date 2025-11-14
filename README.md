@@ -1,4 +1,4 @@
-# 📊 OIT Data Analyst Internship – Task 2  
+
 ## **Data Visualization & Storytelling using Coffee Shop Sales Dataset**
 
 This repository contains my solution for **Task 2** of the **OIT / Uptricks Pvt Ltd Data Analyst Internship**.  
